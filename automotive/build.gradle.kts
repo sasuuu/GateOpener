@@ -7,14 +7,14 @@ plugins {
 
 android {
     namespace = "com.gateopener"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.gateopener"
         minSdk = 28
-        targetSdk = 34
-        versionCode = 4
-        versionName = "4.0"
+        targetSdk = 35
+        versionCode = 5
+        versionName = "5.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

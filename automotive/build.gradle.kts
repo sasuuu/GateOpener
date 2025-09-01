@@ -13,8 +13,8 @@ android {
         applicationId = "com.gateopener"
         minSdk = 28
         targetSdk = 35
-        versionCode = 5
-        versionName = "5.0"
+        versionCode = 6
+        versionName = "6.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
